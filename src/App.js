@@ -177,6 +177,7 @@ function App() {
             >
                =
             </button>
+            <div>Created by Ed</div>
          </div>
       </div>
    );
